@@ -12,24 +12,7 @@ accent_image: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg
 excerpt_separator: <!--more-->
 sitemap: false
 ---
-
-# X Marks the Spot in Hydejack 9.2
-## New Social Media Icons
-
-Lots of things have changed in the world of social media since the last release. To bring Hydejack up to date, the default logo for Twitter has changed:
-
-<span class="icon-twitter-old"></span> → <span class="icon-twitter"></span>
-{:.larger}
-
-<!--more-->
-
-* toc
-{:toc .large-only}
-
-If you prefer the old Twitter logo, you can use it through `twitter-old`.
-{:.note.smaller}
-
-There are also many new social media networks, some of which are now included by default:
+나는 안뇽
 
 | Name | Icon | Name | Icon |
 |:-----|------|:-----|------|
