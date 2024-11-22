@@ -53,20 +53,11 @@ menu:
   - title:             Research
     url:               /Research/
   - title:             Additional Activities
-    url:               /Additional Activities/
+    url:               /posts/
   - title:             CV
     url:               https://www.dropbox.com/scl/fi/oigi4ekjl1xuw64sxzp9g/SeungyeonJung_cv_.pdf?rlkey=uo497usb8aa3skknxwd67arfo&dl=0
 
 
-# Add links to the footer.
-# Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024. All rights reserved.
