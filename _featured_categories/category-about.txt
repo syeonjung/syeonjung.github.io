@@ -1,6 +1,8 @@
 ---
 layout: list
-title: about
-slug: about
+title: category-about
+slug: category-about
+menu: true
+order: 2
 
 ----
