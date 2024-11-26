@@ -11,6 +11,7 @@ image:
 accent_image: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg
 excerpt_separator: <!--more-->
 sitemap: false
+no_link: true
 ---
 나는 안뇽
 
