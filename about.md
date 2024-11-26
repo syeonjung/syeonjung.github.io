@@ -1,9 +1,6 @@
 ---
 layout: about
 image: /assets/img/profile.jpg
-description: >
-  Master's student in Sociology at Yonsei University
-hide_description: false
 ---
 
 <!--author-->
