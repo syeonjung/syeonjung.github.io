@@ -1,0 +1,6 @@
+.about .avatar {
+    width: 350px !important;
+    height: 350px !important;
+    border-radius: 0 !important;  /* 사각형으로 만들기 */
+    object-fit: cover;  /* 이미지 비율 유지 */
+}
