@@ -53,7 +53,7 @@ menu:
   - title:             About Me
     url:               /about/
   - title:             Research
-    url:               /_featured_categories/Research.md/
+    url:               /Research.md/
   - title:             Additional Activities
     url:               /Additional Activities.md/
   - title:             CV
