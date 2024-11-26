@@ -12,3 +12,37 @@
     margin: 1rem 0;
   }
 }
+
+.profile-container {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.profile-content {
+    flex: 1;
+}
+
+.profile-image-container {
+    flex: 0 0 300px;
+}
+
+.profile-image {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* 모바일 반응형 */
+@media (max-width: 768px) {
+    .profile-container {
+        flex-direction: column-reverse;
+    }
+    
+    .profile-image-container {
+        margin: 0 auto;
+    }
+}
