@@ -24,6 +24,7 @@
 
 .profile-content {
     flex: 1;
+    margin-top: -2rem;  /* 텍스트를 위로 올림 */
 }
 
 .profile-image-container {
@@ -46,3 +47,4 @@
         margin: 0 auto;
     }
 }
+
