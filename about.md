@@ -36,3 +36,13 @@ I have been involved in several research projects that explore these themes. Som
 * [Project Name 2] - Brief description
 
 ### Let's Connect! 📫
+
+I'm always interested in discussing research ideas or potential collaborations. Feel free to reach out:
+
+* ✉️ Email: syeonj [at] yonsei.ac.kr
+* 🌐 Github: [syeonjung](https://github.com/syeonjung)
+* 🐦 Twitter: [@syeon2](https://twitter.com/syeon2)
+
+---
+
+> "Education is not preparation for life; education is life itself." - John Dewey
