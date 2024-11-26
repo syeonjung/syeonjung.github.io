@@ -9,7 +9,7 @@ url:                   https://syeonjung.github.io/
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-baseurl:               /about/
+# baseurl:               /hydejac
 
 
 # General settings
@@ -21,7 +21,7 @@ lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                Seungyeon Jung
- title_url:            /about/    
+title_url:            /about/    
 
 
 # A short description (~150 chars) of the page used for the meta description tag.
