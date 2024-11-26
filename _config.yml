@@ -53,7 +53,7 @@ menu:
   - title:             About Me
     url:               /about/
   - title:             Research
-    url:               C:\Users\JSY\Documents\GitHub\syeonjung.github.io\_featured_categories\Research.md
+    url:               /_featured_categories/Research.md/
   - title:             Additional Activities
     url:               /posts/
   - title:             CV

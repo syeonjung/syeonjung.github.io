@@ -1,8 +1,0 @@
----
-layout: list
-title: category-about
-slug: category-about
-menu: true
-order: 2
-
-----
