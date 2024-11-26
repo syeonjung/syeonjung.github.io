@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: lgird
 type: category
 title: Research
 slug: research
