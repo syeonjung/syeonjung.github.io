@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Welcome to my site!
 ---
 
 <div class="profile-container">
