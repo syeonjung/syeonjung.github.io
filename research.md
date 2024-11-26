@@ -1,5 +1,0 @@
----
-layout: list
-title: Research
-
----
