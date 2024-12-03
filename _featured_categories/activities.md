@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: list
 type: category
 title: Additional Activities
 slug: additional activities
