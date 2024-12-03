@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Additional Activities
+title: Activities
 ---
 
 ## NORC at the UNIVERSITY of CHICAGO

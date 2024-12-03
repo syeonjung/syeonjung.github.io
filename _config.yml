@@ -54,8 +54,10 @@ menu:
     url:               /page/
   - title:             Research
     url:               /research/
-  - title:             Additional Activities
+  - title:             Activities
     url:               /activities/
+  - title:             Additional Skills
+    url:               /skills/
   - title:             CV
     url:               https://www.dropbox.com/scl/fi/johcxjzsh05lo0tef1udt/SeungyeonJung_cv_fin.pdf?rlkey=n3jvz9fyqeuze4kuprklhpzte&dl=0
 
