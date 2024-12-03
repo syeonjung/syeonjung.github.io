@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 type: category
 title: Additional Activities
-slug: additionalacitivities
+slug: additional activities
 sidebar: true
 order: 2
 description: >
