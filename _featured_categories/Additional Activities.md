@@ -2,7 +2,7 @@
 layout: post
 type: category
 title: Additional Activities
-slug: additional acitivities
+slug: additionalacitivities
 sidebar: true
 order: 2
 description: >
