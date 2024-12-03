@@ -1,38 +1,22 @@
 ---
 layout: page
-title: About Me
+title: Additional Activities
 ---
 
 I've joined in several research projects. 
-
-## KOREA INEQUALITY OPPOTUNITY DATABASE
-
- 나의 한 가지 연구 목표 중 하나는
-
- ---
-layout: page
-title: "Projects"
-permalink: /projects/
----
 
 <div class="project">
   <div class="project-image">
     <img src="/assets/img/profile" alt="Project Map">
   </div>
   <div class="project-content">
-    <h1>Longitudinal School Attendance Boundary Study</h1>
+    <h1> KOREA INEQUALITY OPPORTUNITY DATABASE </h1>
     <p>
-      A project out of Penn State University, the Longitudinal School Attendance Boundary Study (LSABS), 
-      is a novel data collection effort that aims to collect longitudinal data on school attendance zone 
-      boundaries from school districts across the country. Co-led by Chris Fowler and Erica Frankenberg, 
-      the project will lead to a database of attendance zone boundaries from 1990 to 2020, which will be 
-      made available to the public for research.
+      A project I have mainly joined in, the Korea Inequality Opportunity Database (KIOD), 
+      The KIOD (Korea Inequality Opportunity Database) currently consists of two main components: (1) Youth Higher Education Opportunity Inequality Data and (2) National Residential Segregation Data.The Youth Higher Education Opportunity Inequality Data provides various indicators of university-related opportunity inequality by district (si-gun-gu), based on microdata from the Graduates Occupational Mobility Survey (GOMS) from 2008 to 2019. The National Residential Segregation Data provides segregation indices by household type, socioeconomic status, household income, and housing type for each district, based on microdata from the Population and Housing Census (2000-2020) and the Household Travel Survey (2006, 2010).Additionally, KIOD provides maps that illustrate the geographical and spatial patterns of inequality in Korea by offering  district-level data and related materials (codebooks and analysis highlights) along with visualizations using Geographic Information System (GIS) tools.
     </p>
     <p>
-      Upon completion of the project, the researchers will produce a publicly available data source that captures 
-      boundary changes from 1990 to 2020 for a national sample of K-12 school districts. Among other uses, the new 
-      database can help enrich our understanding of the relationship between school and housing patterns, especially 
-      allowing for analysis of the changes in school and neighborhood demographics over time.
+      As a research assistant, I contributed to the development of KIOD by constructing the segregation dataset and designing interactive visualizations using RShiny and CSS. Building on this work, I am currently conducting two research projects utilizing this database. The first project employs multilevel logistic regression to analyze segregation trends across residential and activity spaces in Korea, examining how these patterns of school segregation influence college admission outcomes.
     </p>
     <ul>
       <li><strong>Funding Resource:</strong> National Science Foundation</li>
