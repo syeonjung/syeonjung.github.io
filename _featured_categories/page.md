@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About me
 ---
 
 <div class="profile-container">
