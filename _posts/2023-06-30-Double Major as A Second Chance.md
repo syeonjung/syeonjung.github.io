@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neighborhood Effects Through Private Supplementary Education
+title: Double Major as A Second Chance
 categories: [research]  # research 카테고리로 지정
 description: >
 This is my master's thesis, currently under preparation for publication
