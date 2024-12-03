@@ -7,7 +7,7 @@ I've joined in several research projects.
 
 <div class="project">
   <div class="project-image">
-    <img src="/assets/img/profile" alt="Project Map">
+    <img src="assets/img/profile.jpg" alt="Project Map">
   </div>
   <div class="project-content">
     <h1> KOREA INEQUALITY OPPORTUNITY DATABASE </h1>
