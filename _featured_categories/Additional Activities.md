@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 type: category
 title: Additional Activities
 slug: additional acitivities
