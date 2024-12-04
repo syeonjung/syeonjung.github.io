@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KOREA INEQUALITY OPPORTUNITY DATABASE 
+title: Korea Inequality Opportunity Database
 categories: [research]
 ---
 
