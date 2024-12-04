@@ -13,6 +13,3 @@ During the summer of 2023, I interned with the National Social Life Health and A
 <p>
 Moreover, my stay in Chicago offered valuable opportunities for direct observation of the city's stark racial and socioeconomic segregation patterns across its geographic landscape, and how these spatial divisions manifest in disparate school quality between neighborhoods. These firsthand observations strengthened my research interest in understanding the complex relationships between residential segregation, neighborhood effects, and educational inequality.
 </P>
-
-## Exchange Studnet Program in Germany
-I spent one year in Osnabrueck, Germany as an exchange student. 
