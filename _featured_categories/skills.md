@@ -3,13 +3,14 @@ layout: page
 title: Additional Skills
 ---
 
-## Methodological Techniques
+<h2>Methodological Techniques 👋</h2>
+
 
 ### Computational Skills
 R, STATA, LaTeX, HTML, CSS
 <p>
 I love playing with data! 🎨
-</p>
+
 - For statistical analysis, I'm fluent in both R and STATA
 - I enjoy bringing data to life through visualization:
   - Creating interactive maps is my favorite part - I use R Shiny with CSS to make data explorable
