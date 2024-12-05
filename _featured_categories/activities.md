@@ -4,7 +4,7 @@ title: Activities
 ---
 
 
-<h2> NORC at the UNIVERSITY of CHICAGO </h2>
+<h2> NORC at the University of Chicago </h2>
 
 <p>
 During the summer of 2023, I interned with the National Social Life Health and Aging Project (NSHAP) team at NORC at the University of Chicago. During this internship, I conducted an independent research project examining "The Effect of Educational Homogamy on Older Adults' Health in Later Life" using NSHAP data.
